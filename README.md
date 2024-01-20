@@ -1,16 +1,13 @@
-### Hi there 👋
+<img src="https://github-readme-stats.vercel.app/api?username=Ace-blue&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
-<!--
-**Ace-blue/Ace-blue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## This is Ace-blue 👀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Sun Yat-Sen University
+
+- 📖 [**Homepage**](https://ace-blue.github.io/zzy/)
+
+- 🔭 Computer vision
+  
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ace-blue&theme=flat" alt="logo" height="120" align="center" style="margin: auto; margin-bottom: 20px;" />
