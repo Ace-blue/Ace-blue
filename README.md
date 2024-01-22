@@ -5,7 +5,7 @@
 
 - 🎓 Sun Yat-Sen University
 
-- 📖 [**Homepage**](https://ace-blue.github.io/zzy/)
+- 📖 [**Homepage**](https://ace-blue.github.io/io/)
 
 - 🔭 Computer vision
   
