@@ -1,9 +1,7 @@
-</br>
-</br>
-</br>
-</br>
 <img src="https://github-readme-stats.vercel.app/api?username=Ace-blue&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
-
+</br>
+</br>
+</br>
 ## This is Ace-blue 👀
 
 - 🎓 Sun Yat-Sen University
